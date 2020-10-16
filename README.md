@@ -36,4 +36,4 @@ For the Close Data, an increase in window size to 5 proved to take away too much
 By the time both graphs reach a window size of 10, the use of the predicted trend line goes down drastically. For the FNG data, a window size near 5 is ideal. The Close data needs a smaller window size under 5 to be best beneficial to the user. 
 
 ![FNG_WINDOW_10](images/FNG_10.png)
-![CLOSE_WINDOW_10](images/CLOSE_10.png)
+![CLOSE_WINDOW_10](../images/CLOSE_10.png)

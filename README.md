@@ -20,10 +20,10 @@ Starting in file "ltsm_stock_predcitor_closing" we will look at LTSM RNN (Long S
 
 ### Loss
 LTSM Stock Predictor using FNG data had a higher loss than using closing prices. This loss translates into the vast separation between Real and Predicted values as shown clearly by the plot. 
-![LTSM_FNG_Plot](./images/FNG_Plot.png)
+![LTSM_FNG_Plot](../images/FNG_Plot.png)
 
 LTSM Stock Predictor using Closing data had much less variance between the real and predicted values, as well as a much lower loss. The predicted values are lower than the actual, but follow along roughly the same pattern as actual data. 
-![LTSM_CLOSE_Plot](/images/CLOSE_Plot.png)
+![LTSM_CLOSE_Plot](../images/CLOSE_Plot.png)
 
 ### Window Size
 As the window size increased from 1-10, the predicted values smoothed. 
